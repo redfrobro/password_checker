@@ -9,3 +9,6 @@ It does not send your password over the internet just the first 5 digits of the 
 python 3.7
 
 
+Disclamer
+
+I thew this together in like 20 min. Use at your own risk.
